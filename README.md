@@ -1,6 +1,6 @@
-# shop_app
+# Shoppe App
 
-A new Flutter project.
+An eCommerce app that allows user to upload a product and sell it on the app, also allows user to order, delete and update the product in the cart, this app also includes login functionality using provider and firebase.
 
 ## Getting Started
 
